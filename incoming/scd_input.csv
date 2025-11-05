@@ -1,0 +1,11 @@
+customer_id,name,email,city,amount
+C001,Ali Khan,ali@example.com,Karachi,71.75
+C002,Sara Ali,sara@example.com,Lahore,129.75
+C003,Omar Farooq,omar@example.com,Islamabad,45.50
+C004,Maya Singh,maya@example.com,Karachi,200.00
+C002,Sara Ali,sara@example.com,Lahore,139.75
+C003,Omar Farooq,omar@example.com,Lahore,45.50
+C005,Zain Ali,zain@example.com,Peshawar,88.00
+C001,Ali Khan Jr,ali@example.com,Karachi,71.75
+C004,Maya Singh,maya@example.com,Karachi,200.00
+C005,Zain Ali,zain@example.com,Peshawar,98.00
